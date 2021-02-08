@@ -2,7 +2,7 @@
 
 ![High School Project 2015](https://img.shields.io/badge/High%20School%20Project-2015-95a5a6.svg)
 
-![Hulot Stéphane](https://img.shields.io/badge/Hulot-Stéphane-2980b9.svg)
+[![Hulot Stéphane](https://img.shields.io/badge/Hulot-Stéphane-2980b9.svg)](https://github.com/stephane-hulot)
 [![Scharff Raphaël](https://img.shields.io/badge/Scharff-Raphaël-2980b9.svg)](https://github.com/Raphi-Sch)
 [![Ligony Charles](https://img.shields.io/badge/Ligony-Charles-2980b9.svg)](https://github.com/CharlesLgn)
 
