@@ -1,5 +1,39 @@
-Executez le fichier Principal.py pour lancer le jeu
+# Zombie game üß†
 
-Ce dossier contient le projet rÈalisÈ par le Groupe 1 d'ISN au lycÈe Alfred Kastler de Stenay (2015-2016)
+![High School Project 2015](https://img.shields.io/badge/High%20School%20Project-2015-95a5a6.svg)
 
-Le programme contient un tutoriel, 5 niveaux de difficultÈ croissante et un mode Èditeur de niveau
+![Hulot St√©phane](https://img.shields.io/badge/Hulot-St√©phane-2980b9.svg)
+[![Scharff Rapha√´l](https://img.shields.io/badge/Scharff-Rapha√´l-2980b9.svg)](https://github.com/Raphi-Sch)
+[![Ligony Charles](https://img.shields.io/badge/Ligony-Charles-2980b9.svg)](https://github.com/CharlesLgn)
+
+[![French Readme](https://img.shields.io/badge/Readme-FR-e67e22.svg)](https://www.linkedin.com/in/charles-ligony-893177134/)
+[![English Readme](https://img.shields.io/badge/Readme-EN-e67e22.svg)](https://www.linkedin.com/in/charles-ligony-893177134/)
+
+Project made during high school in 2015.
+It is made in Python üêç with the Tkinter framework 
+
+***
+The goal was to develop any application with tkinter.
+
+We choose to develop a two player coop puzzle game.
+
+![Pojet Lyc√©e 2015](./resources/screenshot.png)
+
+the game has only a French tutorial
+
+
+***
+## Rules of the project:
+
+- authorized language: `python`
+- authorized framework: `tkinter`
+
+***
+
+## How to run the project
+
+Prerequisite : intall `Python 3` in your computer
+
+- Clone the project : `git clone https://github.com/Raphi-Sch/Zombie.git`
+- Go into the project with a cmd
+- run the project with `python Principal.py`

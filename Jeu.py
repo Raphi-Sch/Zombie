@@ -202,17 +202,17 @@ class Jeu(Canvas):
         Canvas.__init__(self, parent, width=672, height=672, **kwargs)
         
         #Textures
-        self.murTexture = PhotoImage(file = "Mur.gif")
-        self.solTexture = PhotoImage(file = "Sol.gif")
-        self.boutonTexture = PhotoImage(file = "Bouton.gif")
-        self.porteTexture = PhotoImage(file = "Porte.gif")
-        self.porteOuverteTexture = PhotoImage(file = "Porte_ouverte.gif")
-        self.drapeauTexture = PhotoImage(file = "Drapeau.gif")
-        self.J1Texture = PhotoImage(file = "Joueur1.gif")
-        self.J2Texture = PhotoImage(file = "Joueur2.gif")
-        self.zombieTexture = PhotoImage(file = "Zombie.gif")
-        self.tutorielTexture = PhotoImage(file = "Tutoriel.gif")
-        self.editeurTexture = PhotoImage(file = "Editeur.gif")
+        self.murTexture = PhotoImage(file ="resources/Mur.gif")
+        self.solTexture = PhotoImage(file ="resources/Sol.gif")
+        self.boutonTexture = PhotoImage(file ="resources/Bouton.gif")
+        self.porteTexture = PhotoImage(file ="resources/Porte.gif")
+        self.porteOuverteTexture = PhotoImage(file ="resources/Porte_ouverte.gif")
+        self.drapeauTexture = PhotoImage(file ="resources/Drapeau.gif")
+        self.J1Texture = PhotoImage(file ="resources/Joueur1.gif")
+        self.J2Texture = PhotoImage(file ="resources/Joueur2.gif")
+        self.zombieTexture = PhotoImage(file ="resources/Zombie.gif")
+        self.tutorielTexture = PhotoImage(file ="resources/Tutoriel.gif")
+        self.editeurTexture = PhotoImage(file ="resources/Editeur.gif")
         
         #Detection des touches
         self.fenetre = parent
@@ -486,7 +486,7 @@ class Jeu(Canvas):
 
 #############################################
 #                                           #
-#                 Edtieur                   #
+#                 Editeur                   #
 #                                           #
 #############################################
 
